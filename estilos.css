@@ -16,7 +16,8 @@ header {
 
 h1 {
   text-transform: uppercase;
-  padding-left: 100px;
+   margin-right: 40px;
+  font-size: 40px;
 }
 
 /*header superior*/
